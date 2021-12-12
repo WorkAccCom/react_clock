@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAElB,iBACE,iBAAkB","file":"main.5f07e92f.chunk.css","sourcesContent":[".App {\n  text-align: center;\n\n  &__show-clock {\n    margin-right: 10px;\n  }\n}\n"]}
